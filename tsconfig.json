@@ -1,3 +1,13 @@
 {
-  "extends": "@react-native/typescript-config/tsconfig.json"
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "typeRoots": ["./src/types"],
+  "compilerOptions": {
+    "isolatedModules": false,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "moduleSuffixes": [".android", ".ios", ""],
+  }
 }
+
+
+

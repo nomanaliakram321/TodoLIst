@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/icomoon.ttf",
+      "sha1": "143280ff6d38e2e263b731a128398a4207980c6f"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.woff",
+      "sha1": "e130c847f71e655facf6a8c57684c4d2d00f8ffb"
+    },
+    {
+      "path": "src/assets/iconmoon/Read Me.txt",
+      "sha1": "8b7c9e5010e041ead7a487a3eb2f14b490164901"
+    },
+    {
+      "path": "src/assets/iconmoon/demo-files/demo.css",
+      "sha1": "1d89e407e80ae00ecee52287d434bcee47c33658"
+    },
+    {
+      "path": "src/assets/iconmoon/demo-files/demo.js",
+      "sha1": "3325132f9aaedbddaeb5eab2b9c0f9ce698b8d93"
+    },
+    {
+      "path": "src/assets/iconmoon/demo.html",
+      "sha1": "f8c2b10b8d9d3420081ab55fa660b6360d4767a2"
+    },
+    {
+      "path": "src/assets/iconmoon/fonts/icomoon.eot",
+      "sha1": "32da18d09ab6f8939dbc04480c58628be0533c48"
+    },
+    {
+      "path": "src/assets/iconmoon/fonts/icomoon.svg",
+      "sha1": "26a7888033d3350c5a1ac9c80c23b8eae8afc3f9"
+    },
+    {
+      "path": "src/assets/iconmoon/selection.json",
+      "sha1": "26b1851967e378bb6d0665c68a0fd63defbeb066"
+    },
+    {
+      "path": "src/assets/iconmoon/style.css",
+      "sha1": "51b0f0b6c1f31083a44017be633a841f7622e262"
+    }
+  ]
+}
