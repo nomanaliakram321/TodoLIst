@@ -65,7 +65,7 @@ You've successfully run and modified your React Native App. :partying_face:
 - If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
 
 # Troubleshooting
-
+https://github.com/nomanaliakram321/TodoLIst/assets/52954202/29ab50d3-0639-4133-bb37-dd47bdc368b6
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
 # Learn More
